@@ -1,4 +1,4 @@
-# CLAUDE.md â Next.js 15 + SQLite SaaS Project
+\n# CLAUDE.md â Next.js 15 + SQLite SaaS Project
 
 ## Stack & Versions
 
